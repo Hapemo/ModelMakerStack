@@ -1,0 +1,6 @@
+torch
+torchvision
+ultralytics
+albumentations==1.4.24
+opencv-python
+mlflow

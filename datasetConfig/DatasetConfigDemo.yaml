@@ -1,0 +1,10 @@
+names:
+- "class1"
+- "class2"
+- "class3"
+nc: 3
+path: path/to/dataset/from/ultralytics/setting/dir
+train: 
+- train
+val: 
+ - valid
